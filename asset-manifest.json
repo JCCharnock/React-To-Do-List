@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jccharnock.github.io/React-To-Do-List/static/css/main.9ceb0942.chunk.css",
-    "main.js": "/jccharnock.github.io/React-To-Do-List/static/js/main.6112d7a9.chunk.js",
-    "main.js.map": "/jccharnock.github.io/React-To-Do-List/static/js/main.6112d7a9.chunk.js.map",
-    "runtime-main.js": "/jccharnock.github.io/React-To-Do-List/static/js/runtime-main.37cd4c55.js",
-    "runtime-main.js.map": "/jccharnock.github.io/React-To-Do-List/static/js/runtime-main.37cd4c55.js.map",
-    "static/js/2.e9aa7c3b.chunk.js": "/jccharnock.github.io/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js",
-    "static/js/2.e9aa7c3b.chunk.js.map": "/jccharnock.github.io/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.map",
-    "index.html": "/jccharnock.github.io/React-To-Do-List/index.html",
-    "precache-manifest.ff1103f4608316146a2ae082617a821b.js": "/jccharnock.github.io/React-To-Do-List/precache-manifest.ff1103f4608316146a2ae082617a821b.js",
-    "service-worker.js": "/jccharnock.github.io/React-To-Do-List/service-worker.js",
-    "static/css/main.9ceb0942.chunk.css.map": "/jccharnock.github.io/React-To-Do-List/static/css/main.9ceb0942.chunk.css.map",
-    "static/js/2.e9aa7c3b.chunk.js.LICENSE.txt": "/jccharnock.github.io/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.LICENSE.txt"
+    "main.css": "/elsewhere/static/css/main.9ceb0942.chunk.css",
+    "main.js": "/elsewhere/static/js/main.0cbbab01.chunk.js",
+    "main.js.map": "/elsewhere/static/js/main.0cbbab01.chunk.js.map",
+    "runtime-main.js": "/elsewhere/static/js/runtime-main.1c99f529.js",
+    "runtime-main.js.map": "/elsewhere/static/js/runtime-main.1c99f529.js.map",
+    "static/js/2.e9aa7c3b.chunk.js": "/elsewhere/static/js/2.e9aa7c3b.chunk.js",
+    "static/js/2.e9aa7c3b.chunk.js.map": "/elsewhere/static/js/2.e9aa7c3b.chunk.js.map",
+    "index.html": "/elsewhere/index.html",
+    "precache-manifest.c6835ebc4eddcb490c6b7547d36a6835.js": "/elsewhere/precache-manifest.c6835ebc4eddcb490c6b7547d36a6835.js",
+    "service-worker.js": "/elsewhere/service-worker.js",
+    "static/css/main.9ceb0942.chunk.css.map": "/elsewhere/static/css/main.9ceb0942.chunk.css.map",
+    "static/js/2.e9aa7c3b.chunk.js.LICENSE.txt": "/elsewhere/static/js/2.e9aa7c3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37cd4c55.js",
+    "static/js/runtime-main.1c99f529.js",
     "static/js/2.e9aa7c3b.chunk.js",
     "static/css/main.9ceb0942.chunk.css",
-    "static/js/main.6112d7a9.chunk.js"
+    "static/js/main.0cbbab01.chunk.js"
   ]
 }

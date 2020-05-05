@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/JCCharnock/React-To-Do-List/static/css/main.9ceb0942.chunk.css",
-    "main.js": "/JCCharnock/React-To-Do-List/static/js/main.ec65866b.chunk.js",
-    "main.js.map": "/JCCharnock/React-To-Do-List/static/js/main.ec65866b.chunk.js.map",
-    "runtime-main.js": "/JCCharnock/React-To-Do-List/static/js/runtime-main.5a07fb82.js",
-    "runtime-main.js.map": "/JCCharnock/React-To-Do-List/static/js/runtime-main.5a07fb82.js.map",
-    "static/js/2.e9aa7c3b.chunk.js": "/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js",
-    "static/js/2.e9aa7c3b.chunk.js.map": "/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.map",
-    "index.html": "/JCCharnock/React-To-Do-List/index.html",
-    "precache-manifest.06f7b42c3bcb64f9be34c641a5568acd.js": "/JCCharnock/React-To-Do-List/precache-manifest.06f7b42c3bcb64f9be34c641a5568acd.js",
-    "service-worker.js": "/JCCharnock/React-To-Do-List/service-worker.js",
-    "static/css/main.9ceb0942.chunk.css.map": "/JCCharnock/React-To-Do-List/static/css/main.9ceb0942.chunk.css.map",
-    "static/js/2.e9aa7c3b.chunk.js.LICENSE.txt": "/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.LICENSE.txt"
+    "main.css": "/io/JCCharnock/React-To-Do-List/static/css/main.9ceb0942.chunk.css",
+    "main.js": "/io/JCCharnock/React-To-Do-List/static/js/main.3eec2acc.chunk.js",
+    "main.js.map": "/io/JCCharnock/React-To-Do-List/static/js/main.3eec2acc.chunk.js.map",
+    "runtime-main.js": "/io/JCCharnock/React-To-Do-List/static/js/runtime-main.87e3a4a0.js",
+    "runtime-main.js.map": "/io/JCCharnock/React-To-Do-List/static/js/runtime-main.87e3a4a0.js.map",
+    "static/js/2.e9aa7c3b.chunk.js": "/io/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js",
+    "static/js/2.e9aa7c3b.chunk.js.map": "/io/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.map",
+    "index.html": "/io/JCCharnock/React-To-Do-List/index.html",
+    "precache-manifest.bccba405032417392f6a32a536ec16d2.js": "/io/JCCharnock/React-To-Do-List/precache-manifest.bccba405032417392f6a32a536ec16d2.js",
+    "service-worker.js": "/io/JCCharnock/React-To-Do-List/service-worker.js",
+    "static/css/main.9ceb0942.chunk.css.map": "/io/JCCharnock/React-To-Do-List/static/css/main.9ceb0942.chunk.css.map",
+    "static/js/2.e9aa7c3b.chunk.js.LICENSE.txt": "/io/JCCharnock/React-To-Do-List/static/js/2.e9aa7c3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a07fb82.js",
+    "static/js/runtime-main.87e3a4a0.js",
     "static/js/2.e9aa7c3b.chunk.js",
     "static/css/main.9ceb0942.chunk.css",
-    "static/js/main.ec65866b.chunk.js"
+    "static/js/main.3eec2acc.chunk.js"
   ]
 }

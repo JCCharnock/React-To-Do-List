@@ -2,9 +2,15 @@ body {
   background-color: #9266ff;
 }
 
+h1 {
+  color: rgb(207, 152, 64);
+  /* padding: 20px; */
+  text-align: center;
+}
+
 .App {
   background-color: #3f3160;
-  min-height: 500px;
+  min-height: 600px;
   width: 400px;
   margin: 40px auto;
 }
@@ -13,17 +19,16 @@ body {
   background-color: rgb(27, 112, 137);
   border: 0;
   width: 200px;
-  height: 50px;
-  padding: 20px;
+  height: 20px;
+  padding: 10px;
   margin: 20px;
   font-size: 18px;
   border-radius: 10px;
   color: #fff;
-
 }
 
 #to-do-form input::placeholder {
-  color: rgba(255, 255, 255, 0.5)
+  color: rgba(255, 255, 255, 0.5);
 }
 
 #to-do-form input:focus,
@@ -32,7 +37,7 @@ body {
 }
 
 #to-do-form button {
-  height: 50px;
+  height: 40px;
   width: 80px;
   border-radius: 5px;
   border: 0;

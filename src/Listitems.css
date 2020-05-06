@@ -1,9 +1,9 @@
 .list {
   color: #fff;
-  width: 300px;
+  width: 340px;
   background-color: #bf07ac;
-  height: 50px;
-  margin: 20px auto;
+  height: 40px;
+  margin: 5px auto;
   border-radius: 5px;
 }
 
@@ -28,6 +28,7 @@
   border: 0;
   color: #fff;
   font-size: 18px;
+  width: 300px;
 }
 .list p input:focus {
   outline: none;
